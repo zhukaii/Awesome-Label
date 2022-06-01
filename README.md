@@ -1,26 +1,13 @@
-# Awesome-Hierarchical
-hierarchical learning
-# Awesome-NWP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zkcys001/Awesome-NWP/)
+# Awesome-Hierarchical [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhukaii/Awesome-Hierarchical/)
 
-This is a repository for organizing articles related to nerual pathways. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
-
-### About Me
-- Feel free to visit my **[personal homepage](http://home.ustc.edu.cn/~zkcys001/)**
-<!-- 
-### :high_brightness: Other awesome re-identification
-- [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
-- [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification) -->
-
-<!-- ### :high_brightness: Updated 2021-10-23
-- ICCV2021 papers are online now [link](https://openaccess.thecvf.com/ICCV2021)
-- PDF links to all ICCV2021 papers have been uploaded. -->
+This is a repository for organizing articles related to hierarchical learning. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
 ---
 
 ## Table of Contents (ongoing)
 
 - [1. Statistics](#1-statistics)
-- [2. PATHWAYS](#2-PATHWAYS)
+- [2. Hierarchical](#2-PATHWAYS)
 - [3. Papers](#3-papers)
 
 ---
@@ -43,16 +30,7 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 
 ---
 
-## 2. Neural Pathway
-
-> #### 1) *"PATHWAYS: ASYNCHRONOUS DISTRIBUTED DATAFLOW FOR ML"*, [[paper](https://arxiv.org/pdf/2203.12533.pdf)] 
-> #### 2) *"SkillNet: A Sparsely Activated Model for General-Purpose Natural Language Understanding", AAAI 2020| ICML'19 AutoML Workshop.* [[paper](https://arxiv.org/pdf/2203.03312.pdf)]
-> #### 2) *"Scaling Vision with Sparse Mixture of Experts"*, NeurIPS 2021. [[paper](https://arxiv.org/pdf/2106.05974.pdf)]
-
-
-
-[//]: # (https://mp.weixin.qq.com/s/l5QpGRxYZiGi4ymFWBcr2Q)
-
+## 2. Hierarchical Learning
 
 ---
 
@@ -71,8 +49,7 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 
 ## Search keyword
 
-- Nerual Pathways
-- Self-supervised Learning
+- Hierarchical Learning
 
 ---
 
