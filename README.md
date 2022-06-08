@@ -22,7 +22,7 @@ This is a repository for organizing articles related to label space. Most papers
 
 > #### 1) *"LaSO: Label-Set Operations networks for multi-label few-shot learning", CVPR 2019.* [[paper](https://arxiv.org/pdf/1902.09811.pdf)][[code](https://github.com/leokarlin/LaSO)]
 > #### 2) *"Delving into Deep Imbalanced Regression", ICML 2021 (oral).* [[paper](https://arxiv.org/pdf/2102.09554.pdf)][[code](https://github.com/YyzHarry/imbalanced-regression)]
-> #### 3) *"CLIP-Adapter: Better Vision-Language Models with Feature Adapters", arxiv.* [[paper]([https://arxiv.org/pdf/2102.09554.pdf](https://arxiv.org/pdf/2110.04544.pdf))][[code]([https://github.com/YyzHarry/imbalanced-regression](https://github.com/gaopengcuhk/CLIP-Adapter))]
+> #### 3) *"CLIP-Adapter: Better Vision-Language Models with Feature Adapters", arxiv.* [[paper](https://arxiv.org/pdf/2110.04544.pdf)][[code](https://github.com/gaopengcuhk/CLIP-Adapter)]
 
 ## Search keyword
 
